@@ -45,8 +45,6 @@ Look a this `<p>This is a paragraph</p>` on blockquotes.
 
 <!-- Images: ![name](link "hover info") -->
 
-![Markdown Logo]()
-
 ![Markdown Logo](https://markdown-here.com/img/icon256.png "Markdown logo mofos")
 
 
